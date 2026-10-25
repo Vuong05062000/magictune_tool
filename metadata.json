@@ -1,0 +1,8 @@
+{
+  "name": "MagicTune",
+  "description": "MagicTune v4.8 PRO Ultimate: Bộ công cụ WebADB chuyên nghiệp cho Honor & MagicOS. Cưỡng bức 100% App nổ thông báo Full, Tối ưu RAM Turbo & Đa nhiệm, và kích hoạt Shizuku 1 chạm.",
+  "requestFramePermissions": ["usb"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

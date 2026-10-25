@@ -1,0 +1,6 @@
+{
+  "summary": "Kế hoạch nâng cấp hệ thống kết nối để đạt độ ổn định 100% và tính năng \"Kết nối tự động\" (Silent Connect):\n1. Triển khai tính năng tự động nhận diện thiết bị đã ghép đôi (không cần hiện popup nhiều lần).\n2. Thêm cơ chế \"Reset USB\" cưỡng bức để giải phóng hoàn toàn các giao diện bị kẹt (lỗi Busy).\n3. Cập nhật mã nguồn để xử lý handshake ADB theo chuẩn mới nhất, đảm bảo hiện bảng hỏi gỡ lỗi trên điện thoại ngay lập tức.\n4. Tinh chỉnh giao diện để hiển thị trạng thái kết nối chi tiết từng giây.",
+  "updatedAt": "2026-10-20T09:15:57.945908986Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
